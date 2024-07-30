@@ -2,7 +2,7 @@
   "name": "radix-vue",
   "version": "1.9.2",
   "private": true,
-  "packageManager": "pnpm@9.4.0",
+  "packageManager": "pnpm@9.6.0",
   "license": "MIT",
   "repository": "radix-vue/radix-vue",
   "workspaces": [
@@ -31,8 +31,8 @@
     "bumpp": "^9.4.1",
     "eslint": "^9.7.0",
     "lint-staged": "^15.2.7",
-    "pnpm": "^9.4.0",
-    "rimraf": "^5.0.7",
+    "pnpm": "^9.6.0",
+    "rimraf": "^5.0.9",
     "simple-git-hooks": "^2.11.1",
     "typescript": "5.3.3"
   },
